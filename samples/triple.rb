@@ -1,4 +1,6 @@
-class Triple < Evilution::Organism
+class Triple
+  extend Evilution::Organism
+
   attr_accessor :one,
                 :two,
                 :three
