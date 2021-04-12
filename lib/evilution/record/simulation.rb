@@ -1,6 +1,6 @@
 module Evilution
   module Record
-    class Simulation
+    class Simulation < Evilution::Simulation
       def initialize(db_config, &block)
         block ||= ->{}
 
@@ -10,13 +10,7 @@ module Evilution
           ApplicationRecord.descendants.reject(&:abstract_class?).each(&:create_table)
         end
 
-        block.call
-      end
-
-      def evolve!
-        Species.all.each do |species|
-          species.mutate!.save
-        end
+        super(block)
       end
     end
   end
