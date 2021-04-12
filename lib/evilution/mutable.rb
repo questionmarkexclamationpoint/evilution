@@ -1,4 +1,4 @@
-module Eviltuion
+module Evilution
   module Mutable
     def mutate
       reproduce.mutate!
