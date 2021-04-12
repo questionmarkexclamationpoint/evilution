@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72b76a55-d071-4e28-a74a-5c1c35300073" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/evilution.gemspec" beforeDir="false" afterPath="$PROJECT_DIR$/evilution.gemspec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/evilution.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/evilution.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/evilution/gene.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/evilution/gene.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/evilution/mutable.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/evilution/mutable.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/evilution/record/organism.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/evilution/record/organism.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/evilution/record/simulation.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/evilution/record/simulation.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/evilution/version.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/evilution/version.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/samples/triple.rb" beforeDir="false" afterPath="$PROJECT_DIR$/samples/triple.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +98,7 @@
       <workItem from="1550898437373" duration="20633000" />
       <workItem from="1613349268817" duration="1920000" />
       <workItem from="1618188984255" duration="31000" />
-      <workItem from="1618189027111" duration="2408000" />
+      <workItem from="1618189027111" duration="2675000" />
     </task>
     <servers />
   </component>
