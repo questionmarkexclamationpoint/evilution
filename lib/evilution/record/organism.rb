@@ -1,7 +1,7 @@
 module Evilution
   module Record
     class Organism < EvolvableRecord
-      include Eviltuion::Organism
+      include Evilution::Organism
 
       self.abstract_class = true
 
